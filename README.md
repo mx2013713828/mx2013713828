@@ -2,10 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx2013713828&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx2013713828&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img width="50%"  src="(https://github-readme-stats.vercel.app/api?username=mx2013713828&show_icons=true&theme=ambient_gradient)" />
-  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mx2013713828&theme=ambient_gradient" />
-</p>
+
 <!--
 **mx2013713828/mx2013713828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
