@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx2013713828)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&&theme=solarized-light)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx2013713828&show_icons=true&&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx2013713828)](https://github.com/anuraghazra/github-readme-stats)
 
