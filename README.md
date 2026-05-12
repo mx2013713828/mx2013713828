@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![mx2013713828's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx2013713828&show_icons=true&theme=ambient_gradient)](https://github.com/mx2013713828)
+[![ma yufeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=mx2013713828)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx2013713828&theme=ambient_gradient&layout=compact)](https://github.com/mx2013713828)
 
